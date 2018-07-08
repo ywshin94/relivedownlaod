@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC500</color>
+    <color name="colorPrimaryDark">#E4B001</color>
+    <color name="colorPrimaryLight">#32FFC500</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBtn">#D3A302</color>
+    <color name="colorBtnDownload">#15A5F0</color>
+    <color name="colorBtnCancel">#FF4081</color>
+</resources>
